@@ -1,0 +1,8 @@
+org/monmo/datos/AlumnoDatos.class
+org/monmo/entities/TestMain.class
+org/monmo/negocio/MyException.class
+org/monmo/datos/ConexionBaseDatos.class
+org/monmo/servlets/listarAlumnos.class
+org/monmo/negocio/AlumnoNegocio.class
+org/monmo/entities/Alumno.class
+org/monmo/servlets/insertarAlumno.class
